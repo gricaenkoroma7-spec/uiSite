@@ -1,0 +1,86 @@
+html {
+
+    width: 100%;
+    height: 70%;
+    background-image: url('https://cdn.pixabay.com/photo/2020/04/13/10/48/coffee-5037804_1280.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+
+a {
+    width: 100px;
+    margin: 40px;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 90%;
+}
+
+header {
+    background-color: rgb(118, 122, 122);
+    width: 100%;
+    height: 80px;
+    gap: 150px;
+    align-items: center;
+    padding: 10px 20px;
+    display: flex;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+
+body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    overflow-x: hidden;
+
+}
+
+header a {
+    font-size: 18px;
+    text-decoration: none;
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.about {
+    margin-left: 50px;
+    width: 500px;
+    height: 300px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+li {
+    text-align: left;
+    font-size: 20px;
+}
+
+.yuo {
+    margin: 5px;
+}
+
+.mammamamam {
+    margin-left: 200px;
+    margin-top: 150px;
+}
+
+.halo {
+    margin-left: 165px;
+}
+
+button{
+    margin-left: 215px;
+    margin-top: 10px; 
+    width: 200px;
+    height: 40px;
+    border-radius: 60px;
+    background-image: linear-gradient(black, white);
+}
+
+button:hover{
+    background-image: linear-gradient(white);
+}
